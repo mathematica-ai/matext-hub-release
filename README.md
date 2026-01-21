@@ -1,6 +1,6 @@
 # Matext Hub
 
-Two products, one system, shared foundation.
+**Two products. One system. Shared foundation.**
 
 ## Authored Capture
 Each material begins in the physical world. Surfaces are photographed and documented. Reality remains present in its origin.
